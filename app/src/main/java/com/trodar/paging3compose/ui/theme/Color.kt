@@ -1,6 +1,5 @@
 package com.trodar.paging3compose.ui.theme
 
-import androidx.compose.material3.MaterialTheme
 import androidx.compose.ui.graphics.Color
 
 // DARK
